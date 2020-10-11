@@ -3,3 +3,4 @@
  - [arturmaiz](https://github.com/arturmaiz)
  - [RAKS-Codes](https://github.com/amansmarty)
  - [BOHEUS](https://github.com/BOHEUS)
+ - [Harsh52](https://github.com/harsh52)
