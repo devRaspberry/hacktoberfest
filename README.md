@@ -5,6 +5,13 @@ Support open source and pick a limited edition T-shirt or plant a tree.
 
 # How to add PRs
 Make a simple app or a hello world app in python as or any language and add it in a folder in root.
-Last step add the name and usernames in [contributions list](https://github.com/devRaspberry/hacktoberfest/blob/main/contributors-list.md).
+Last step add the name and usernames in [contributions list](https://github.com/devRaspberry/hacktoberfest/blob/main/contributors-list.md). (Optional)
 
+## What to follow.
+ - Just make sure your apps is in a folder not directly in root.
+ - Don't add syslinks (Shortcuts))!.
+ - Make sure your project don't contain any Vulnerable.
+
+ Although everyone is welcome drop your PR we will make sure to accept it.
+ 
 ![Footer](../main/_data/_Sponsors.svg)
