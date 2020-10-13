@@ -14,4 +14,7 @@ Last step add the name and usernames in [contributions list](https://github.com/
 
  Although everyone is welcome drop your PR we will make sure to accept it.
  
+ ## What's this donation? Is it is associated with Hacktoberfest.
+ No the donation is solely used by our organization only. This has no link with Hacktoberfest.
+ 
 ![Footer](../main/_data/_Sponsors.svg)
