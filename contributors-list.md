@@ -6,3 +6,4 @@
  - [Harsh52](https://github.com/harsh52)
  - [ClaesGill](https://github.com/claesgill)
  - [ChristySchott](https://github.com/christyschott)
+ - [Vinay Sagar Sharma](https://github.com/vinay72)
