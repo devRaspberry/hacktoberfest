@@ -10,7 +10,7 @@ Last step add the name and usernames in [contributions list](https://github.com/
 ## What to follow.
  - Just make sure your apps is in a folder not directly in root.
  - Don't add syslinks (Shortcuts))!.
- - Make sure your project don't contain any Vulnerable.
+ - Make sure your project don't contain any Vulnerable. We handled a project with 35000 Vulnerable dependcies and node so removed.
 
  Although everyone is welcome drop your PR we will make sure to accept it.
  
