@@ -8,3 +8,4 @@
  - [ChristySchott](https://github.com/christyschott)
  - [kevinwsbr](https://github.com/kevinwsbr)
  - [Vinay Sagar Sharma](https://github.com/vinay72)
+ - [kellydosocorro](https://github.com/kellydosocorro)
