@@ -7,7 +7,7 @@
 
 ### New PR Submissions:
 
- - [ ] Is your code contain big app.
+ - [ ] Is your code contain big app. (if Yes,then)
    - [ ] Run audit and see any issue, and try to fix it.
  - [ ] Do your project contain any syslink?.
  - [ ] Your PR is not directly in root. (i.e. it is in folder named according to your app.)
