@@ -12,5 +12,6 @@
  - [ ] Do your project contain any syslink?.
  - [ ] Your PR is not directly in root. (i.e. it is in folder named according to your app.)
 
+**Please Try to keep pull requests small to minimize merge conflicts.**
 <!-- Wait till PR is reviewed. If you can't wait mention @darkRaspberry . Repo maintainers are available in IST only. Don't panic-->
 <!-- Your PR will be merged-->
