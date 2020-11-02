@@ -1,3 +1,5 @@
+This repo will be closed and will saved for archival purpose.
+
 ![Banner](../main/_data/HF2020.png)
 
 # Hacktoberfest
